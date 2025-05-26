@@ -1,5 +1,7 @@
 # Jimpleプロジェクト GitHub
 
+<img src="https://github.com/stellar-ririn/Jimple/blob/master/images/main.png" width="1000">
+
 ## 📚 概要
 
 人事管理システムであるJimpleのプロジェクトです。  
